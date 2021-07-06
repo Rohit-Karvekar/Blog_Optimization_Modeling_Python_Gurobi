@@ -11,3 +11,6 @@ Its wise not to put all the eggs into a single basket and hence the marketing te
 - Conventional Channels (Print+ TV) spend must be at least 40% of the total budget.
 - Print cost no more than $100,000.
 - The marketing strategy says that Social Media cost should be no more 3 times the SEO costs.
+
+For the purpose of this problem, I’ll assume that you are familiar with Python, i.e., you know how to install and use Python packages and use Python data structures like lists, dictionaries etc. I’ll also assume basic knowledge of linear programming and constrained optimization.
+To solve this problem using Gurobi, we will follow the common modeling process mentioned in [ad_revenue_grb_blog.py](https://github.com/Rohit-Karvekar/Blog_Optimization_Modeling_Python_Gurobi/blob/main/ad_revenue_grb_blog.py)
